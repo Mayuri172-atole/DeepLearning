@@ -1,2 +1,2 @@
-# AutoEncoders
-This notebook demonstrates  concepts of Autoencoders using deep learning, including training, reconstruction, and visualization.
+#DeepLearning 
+This notebook demonstrates  concepts of deep learning, including training, reconstruction, and visualization.
